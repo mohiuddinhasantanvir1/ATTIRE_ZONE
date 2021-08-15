@@ -11,7 +11,7 @@
 .price{
     color: #FF136F;
 }
-.buy-now-button{
+.buy_now_button1{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff;
     border: none;
